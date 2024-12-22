@@ -38,10 +38,6 @@ public class Main
         System.out.println("GOO!!! " +favteam );
         System.out.println(":)");
         
-
-
-
-        
             
     }
 }
